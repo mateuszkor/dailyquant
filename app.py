@@ -42,6 +42,7 @@ def show_session():
     return "showing session items!"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
+    # app.run(debug=True)
 
 

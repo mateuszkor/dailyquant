@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Quant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <p class="question">{{ exercise.question }}</p>
+            <p class="tries">Tries left: <strong>{{ exercise.tries_left }}</strong></p>
+
+            <form method="POST" class="answer-form">
+                {% if exercise.tries_left > 0 %}
+                    <input type="text" name="answer" placeholder="Enter your answer" required class="input">
+                    <button type="submit" class="button">Submit</button>
+                {% endif %}
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,94 @@
+/* General Styles */
+body {
+    font-family: "Fira Code", monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* background: linear-gradient(135deg, #6a11cb, #2575fc); */
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.card {
+    background: #ffffff;
+    color: #333;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 600px;
+    /* animation: fadeIn 0.8s ease-in-out; */
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.question {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.tries {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/* Form Styling */
+.answer-form {
+    margin-bottom: 1rem;
+}
+
+/* .input {
+    width: 25%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px; 
+    margin-bottom: 1rem;
+    outline: none;
+} */
+
+.input {
+    font-size: 1rem;
+}
+
+.input:focus {
+    border-color: #2575fc;
+    box-shadow: 0 0 5px rgba(37, 117, 252, 0.5);
+}
+
+/* Buttons */
+.button {
+    /* display: inline-block; */
+    /* background: #2575fc; */
+    /* color: #fff; */
+    /* padding: 0.5rem 1rem; */
+    /* border: none; */
+    /* border-radius: 8px; */
+    /* text-decoration: none; */
+    font-size: 1rem;
+    cursor: pointer;
+    /* transition: background 0.3s ease; */
+}
+
+/* .button:hover {
+    background: #029500;
+} */

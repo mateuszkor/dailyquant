@@ -1,0 +1,97 @@
+[
+    {
+        "question": "Take a shuffled deck of 52 playing cards and throw the first top 10 cards in the bin. What is the probability that the new top card is red?",
+        "answer": null,
+        "date": "2025-01-27"
+    },
+    {
+        "question": "You flip a coin 3 times. What is the probability that the outcome is the same for all flips? So all Heads or all Tails.",
+        "answer": null,
+        "date": "2025-01-26"
+    },
+    {
+        "question": "You throw two dice. What is the probability that the two dice add up to exactly 7?",
+        "answer": null,
+        "date": "2025-01-28"
+    },
+    {
+        "question": "You throw one dice two times. What is the probability that the 2nd throw has a different face value than the first throw?",
+        "answer": null,
+        "date": "2025-01-29"
+    },
+    {
+        "question": "You keep flipping a coin and whilst you do this you keep track of the number of Heads and the number of Tails. You can think of this as a race between Heads and Tails. For example, if after 9 flips you have landed on Heads 7 times and Tails 2 times, then Heads is winning the race by 5. Now consider a race of 3 flips. What is the probability that the side you flip first will be winning the race?",
+        "answer": null,
+        "date": "2025-01-30"
+    },
+    {
+        "question": "You play a game with a coin. You may place a bet; if Heads is flipped then you receive your bet back plus the same in winnings. If Tails is flipped then you lose your bet. You have $10 and you want to turn this into $20 by continuously betting $1 at a time, walking away when you either have a total of $20 or are bankrupt. What is the probability you will leave with $20?",
+        "answer": null,
+        "date": "2025-01-31"
+    },
+    {
+        "question": "61 coins are randomly put into 15 boxes. If any of these boxes contains more than 4 coins, you win a prize. What is the probability that you win a prize?",
+        "answer": null,
+        "date": "2025-02-01"
+    },
+    {
+        "question": "A student leaves University (U) to walk home (H). It is a distance of four blocks in a straight line. At each crossing, they toss a coin deciding whether to move forwards (Heads) or backwards (Tails). Note that from U they cannot go backwards in which case they stay there if they throw Tails. If it takes 10 minutes to walk each block, what is the probability they will be home in less than 45 minutes?",
+        "answer": null,
+        "date": "2025-02-02"
+    },
+    {
+        "question": "On average, how many times must a dice be rolled until all sides have appeared at least once?",
+        "answer": null,
+        "date": "2025-02-03"
+    },
+    {
+        "question": "You roll four dice and take the sum of the three lowest values. What is the probability that this sum is equal to 3?",
+        "answer": null,
+        "date": "2025-02-04"
+    },
+    {
+        "question": "You roll four dice and sum their values. What is the probability that the sum is an odd number?",
+        "answer": null,
+        "date": "2025-02-05"
+    },
+    {
+        "question": "A Stock is currently worth $100. Each day, a coin is flipped. If coin lands on Heads, the stock price increases by $1. If it lands on Tails, the stock price decreases by $1. What is the probability that after 10 days, the stock is worth exactly $100?",
+        "answer": null,
+        "date": "2025-02-06"
+    },
+    {
+        "question": "You play a game with a biased coin where there is a 40% chance of Heads and 60% chance of Tails. You may place a bet; if Heads is flipped then you receive your bet back plus the same in winnings. If Tails is flipped then you lose your bet. You have $10 and you want to turn this into $20 by continuously betting $1 at a time, walking away when you either have a total of $20 or are bankrupt. What is the probability you will leave with $20?",
+        "answer": null,
+        "date": "2025-02-07"
+    },
+    {
+        "question": "You roll four dice and multiply their values together. What is the probability that this product is an even number?",
+        "answer": null,
+        "date": "2025-02-08"
+    },
+    {
+        "question": "Consider a shuffled deck of 52 cards. How many cards on average do you need to draw before you draw an Ace?",
+        "answer": null,
+        "date": "2025-02-09"
+    },
+    {
+        "question": "Two people start at opposite corners of a 4x4 grid. Person A starts on the bottom left node. Person B starts on the top right node. Every second, Person A will randomly move either one edge to the right, or one edge up. At the same time, Person B will randomly move either one edge to the left, or one edge down. Each person must always move each second, for example, if Person A cannot move right anymore, they must move up. What is the probability that A and B share the same position at some point?",
+        "answer": null,
+        "date": "2025-02-10"
+    },
+    {
+        "question": "There are 32 teams in a traditional knockout tournament. Each of these 32 teams are of a different quality and can be distinctly ranked from 1st to 32nd in terms of ability. Assume that a higher-ability team always beats a lower-ability team. The teams are randomly seeded in the schedule of this knockout tournament. What is the probability that the grand final consists of the best team playing the third best team?",
+        "answer": null,
+        "date": "2025-02-11"
+    },
+    {
+        "question": "Consider a simple coin game where you can bet any amount of money. If it lands on Heads you double your bet; if it lands on Tails you lose your bet. Consider a strategy where you start by betting $1. If you lose, you will bet $2. If you lose again, you will bet $4. If you lose again, you will bet $8, and so on in this way until you finally win a toss. Once you have won a toss, your strategy has been implemented, and you stop. If you have a total bankroll of $63 available to implement this strategy, what is your expected profit?",
+        "answer": null,
+        "date": "2025-02-12"
+    },
+    {
+        "question": "A couple decide to start having children and keep having children until they have the same number of boys and girls. How many children do they expect to have?",
+        "answer": null,
+        "date": "2025-02-13"
+    }
+]
